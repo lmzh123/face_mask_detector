@@ -151,8 +151,16 @@ docker run --runtime=nvidia --rm -v ${PWD}:/workspace -w /workspace daisukekobay
 
 ## Results
 
+### Images
 
-| Image 1     | Image 2     | Image 3     | Image 4     |
-|-------------|-------------|-------------|-------------|
-| ![][image1] | ![][image2] | ![][image3] | ![][image4] |
-| ![][image5] | ![][image6] | ![][image7] | ![][image8] |
+|Detector| Image 1     | Image 2     | Image 3     | Image 4     |
+|--------|-------------|-------------|-------------|-------------|
+|Yolo v3 | ![][image1] | ![][image2] | ![][image3] | ![][image4] |
+|Yolo v4 | ![][image5] | ![][image6] | ![][image7] | ![][image8] |
+
+### Videos
+
+| Detector | Video 1                      | Video 2                      |
+|----------|------------------------------|------------------------------|
+| Yolo v3  | https://youtu.be/OSJrziOfoU4 | https://youtu.be/1AW8TOsduMU |
+| Yolo v4  | https://youtu.be/f3YmXntjT6s | https://youtu.be/Eay-L5saHP8 |
